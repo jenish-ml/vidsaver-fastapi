@@ -1,0 +1,24 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# IDE configurations
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Miscellaneous
+*.DS_Store
+*.egg-info/
